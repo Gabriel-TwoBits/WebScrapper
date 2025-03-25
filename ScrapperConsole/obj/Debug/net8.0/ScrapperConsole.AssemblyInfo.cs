@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScrapperConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f054770e66c91cc96096fcacad3f3c85549d9d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b2d733ff93b027598653cfa3ba6bc215846d3fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScrapperConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScrapperConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
