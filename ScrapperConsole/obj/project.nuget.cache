@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "blLDgBgo64U=",
+  "dgSpecHash": "6Fli7kkPzzc=",
   "success": true,
-  "projectFilePath": "D:\\projects\\ScrapperConsole\\ScrapperConsole.csproj",
+  "projectFilePath": "D:\\projects\\WebScrapper\\ScrapperConsole\\ScrapperConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fisgo\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\fisgo\\.nuget\\packages\\htmlagilitypack\\1.12.0\\htmlagilitypack.1.12.0.nupkg.sha512"

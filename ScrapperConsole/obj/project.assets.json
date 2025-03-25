@@ -118,11 +118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\ScrapperConsole\\ScrapperConsole.csproj",
+      "projectUniqueName": "D:\\projects\\WebScrapper\\ScrapperConsole\\ScrapperConsole.csproj",
       "projectName": "ScrapperConsole",
-      "projectPath": "D:\\projects\\ScrapperConsole\\ScrapperConsole.csproj",
+      "projectPath": "D:\\projects\\WebScrapper\\ScrapperConsole\\ScrapperConsole.csproj",
       "packagesPath": "C:\\Users\\fisgo\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\ScrapperConsole\\obj\\",
+      "outputPath": "D:\\projects\\WebScrapper\\ScrapperConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Arquivos de Programas\\VS SDKs\\NuGetPackages"
